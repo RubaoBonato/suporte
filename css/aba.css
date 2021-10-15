@@ -1,0 +1,25 @@
+.abaativa {
+    font-family: verdana;
+    font-size: 10px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: bold;
+    font-variant: normal;
+    text-transform: capitalize;
+    color: orange; /*#FFFFFF;
+    /*background-image: url(../imagens/telas/abaAtiva.png);*/
+    background-color:#E8E8E8;
+}
+
+.abainativa {
+    font-family: verdana;
+    font-size: 10px;
+    font-style: normal;
+    line-height: normal;
+    font-weight: bold;
+    font-variant: normal;
+    text-transform: capitalize;
+    color: black;
+   /* background-image: url(../imagens/telas/abaInativa.png);*/
+    background-color:#E8E8E8;  /* #FFEBCD;*/
+}

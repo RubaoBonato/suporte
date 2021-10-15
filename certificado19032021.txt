@@ -1,0 +1,26 @@
+Tabela dos Certificados Ativo 
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=- 
+Gerado: 19/03/2021 
+-=-=-=-=-=-=-=-=-= 
+KM555IMPORT - [ A1 ] - 09/06/2021 - 82 Dias. 
+RENOVE - [ A1 ] - 03/07/2021 - 106 Dias. 
+RENAER - [ A1 ] - 03/07/2021 - 106 Dias. 
+AUDIOAMERICA - [ A1 ] - 03/07/2021 - 106 Dias. 
+PPA - [ A1 ] - 03/07/2021 - 106 Dias. 
+ARROW - [ A1 ] - 03/07/2021 - 106 Dias. 
+SONOTEC - [ A1 ] - 24/11/2021 - 250 Dias. 
+MUSIMAX - [ A1 ] - 24/11/2021 - 250 Dias. 
+AUDIOTECH - [ A1 ] - 25/11/2021 - 251 Dias. 
+STWORKS - [ A3 ] - 27/11/2021 - 253 Dias. 
+MUSIMAX - [ A3 ] - 27/11/2021 - 253 Dias. 
+ARROW - [ A3 ] - 27/11/2021 - 253 Dias. 
+EROS - [ A3 ] - 27/11/2021 - 253 Dias. 
+SONOTEC - [ A3 ] - 27/11/2021 - 253 Dias. 
+RENOVE - [ A3 ] - 27/11/2021 - 253 Dias. 
+MARCIO R - [ TOKEN ] - 27/11/2021 - 253 Dias. 
+RENAER - [ A3 ] - 27/11/2021 - 253 Dias. 
+AUDIOAMERICA - [ A3 ] - 27/11/2021 - 253 Dias. 
+EROS - [ A1 ] - 29/01/2022 - 316 Dias. 
+STWORKS - [ A1 ] - 29/01/2022 - 316 Dias. 
+PPA - [ A3 ] - 30/01/2022 - 317 Dias. 
+AUDIOTECH - [ A3 ] - 25/11/2023 - 981 Dias. 
